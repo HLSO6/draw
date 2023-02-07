@@ -1,1 +1,109 @@
-<mxfile host="app.diagrams.net" modified="2023-02-07T08:19:13.034Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.8.16" etag="XhPKjgjLh98zN7LRHZbG" type="github"><diagram name="第 1 页" id="xX1Yd_GWiT7kh5n9bZDE">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-02-07T08:35:01.727Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="Scx_khQq3314U_JeVGcd" version="20.8.16" type="github">
+  <diagram name="第 1 页" id="xX1Yd_GWiT7kh5n9bZDE">
+    <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="GBuDpjUZx_yrVpDqcUHT-1" value="双线展商洽事实表" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
+          <mxGeometry x="378.2894736842105" y="120" width="102.63157894736844" height="31.139240506329113" as="geometry" />
+        </mxCell>
+        <mxCell id="GBuDpjUZx_yrVpDqcUHT-3" value="买家,展会,日粒度" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
+          <mxGeometry x="378.2894736842105" y="177.08860759493672" width="102.63157894736844" height="31.139240506329113" as="geometry" />
+        </mxCell>
+        <mxCell id="GBuDpjUZx_yrVpDqcUHT-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GBuDpjUZx_yrVpDqcUHT-1" target="GBuDpjUZx_yrVpDqcUHT-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GBuDpjUZx_yrVpDqcUHT-5" value="买家,展会粒度" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="239.36708860759495" width="102.63157894736844" height="31.139240506329113" as="geometry" />
+        </mxCell>
+        <mxCell id="GBuDpjUZx_yrVpDqcUHT-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GBuDpjUZx_yrVpDqcUHT-3" target="GBuDpjUZx_yrVpDqcUHT-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GBuDpjUZx_yrVpDqcUHT-6" value="买家,年粒度" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
+          <mxGeometry x="378.2894736842105" y="239.36708860759495" width="102.63157894736844" height="31.139240506329113" as="geometry" />
+        </mxCell>
+        <mxCell id="GBuDpjUZx_yrVpDqcUHT-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GBuDpjUZx_yrVpDqcUHT-3" target="GBuDpjUZx_yrVpDqcUHT-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GBuDpjUZx_yrVpDqcUHT-8" value="展会粒度" style="whiteSpace=wrap;html=1;rounded=0;container=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="312.0253164556962" width="102.63157894736844" height="31.139240506329113" as="geometry" />
+        </mxCell>
+        <mxCell id="GBuDpjUZx_yrVpDqcUHT-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GBuDpjUZx_yrVpDqcUHT-5" target="GBuDpjUZx_yrVpDqcUHT-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GBuDpjUZx_yrVpDqcUHT-11" value="买家粒度" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
+          <mxGeometry x="378.2894736842105" y="312.0253164556962" width="102.63157894736844" height="31.139240506329113" as="geometry" />
+        </mxCell>
+        <mxCell id="GBuDpjUZx_yrVpDqcUHT-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GBuDpjUZx_yrVpDqcUHT-6" target="GBuDpjUZx_yrVpDqcUHT-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GBuDpjUZx_yrVpDqcUHT-25" value="双线展签到事实表" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
+          <mxGeometry x="643.421052631579" y="120" width="102.63157894736844" height="31.139240506329113" as="geometry" />
+        </mxCell>
+        <mxCell id="GBuDpjUZx_yrVpDqcUHT-28" value="买家,展会,日粒度" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
+          <mxGeometry x="643.421052631579" y="177.08860759493672" width="102.63157894736844" height="31.139240506329113" as="geometry" />
+        </mxCell>
+        <mxCell id="GBuDpjUZx_yrVpDqcUHT-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GBuDpjUZx_yrVpDqcUHT-25" target="GBuDpjUZx_yrVpDqcUHT-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GBuDpjUZx_yrVpDqcUHT-30" value="买家,展会粒度" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
+          <mxGeometry x="643.421052631579" y="234.1772151898734" width="102.63157894736844" height="31.139240506329113" as="geometry" />
+        </mxCell>
+        <mxCell id="GBuDpjUZx_yrVpDqcUHT-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GBuDpjUZx_yrVpDqcUHT-28" target="GBuDpjUZx_yrVpDqcUHT-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GBuDpjUZx_yrVpDqcUHT-32" value="买家,年粒度" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
+          <mxGeometry x="797.3684210526316" y="234.1772151898734" width="102.63157894736844" height="31.139240506329113" as="geometry" />
+        </mxCell>
+        <mxCell id="GBuDpjUZx_yrVpDqcUHT-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GBuDpjUZx_yrVpDqcUHT-28" target="GBuDpjUZx_yrVpDqcUHT-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GBuDpjUZx_yrVpDqcUHT-33" value="展会粒度" style="whiteSpace=wrap;html=1;rounded=0;container=0;" vertex="1" parent="1">
+          <mxGeometry x="643.421052631579" y="312.0253164556962" width="102.63157894736844" height="31.139240506329113" as="geometry" />
+        </mxCell>
+        <mxCell id="GBuDpjUZx_yrVpDqcUHT-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GBuDpjUZx_yrVpDqcUHT-30" target="GBuDpjUZx_yrVpDqcUHT-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GBuDpjUZx_yrVpDqcUHT-34" value="买家粒度" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
+          <mxGeometry x="797.3684210526316" y="312.0253164556962" width="102.63157894736844" height="31.139240506329113" as="geometry" />
+        </mxCell>
+        <mxCell id="GBuDpjUZx_yrVpDqcUHT-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GBuDpjUZx_yrVpDqcUHT-32" target="GBuDpjUZx_yrVpDqcUHT-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GBuDpjUZx_yrVpDqcUHT-35" value="买家,展会,日到展粒度" style="whiteSpace=wrap;html=1;rounded=0;container=0;" vertex="1" parent="1">
+          <mxGeometry x="515.1315789473684" y="361.3291139240506" width="119.73684210526316" height="33.734177215189874" as="geometry" />
+        </mxCell>
+        <mxCell id="GBuDpjUZx_yrVpDqcUHT-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GBuDpjUZx_yrVpDqcUHT-3" target="GBuDpjUZx_yrVpDqcUHT-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GBuDpjUZx_yrVpDqcUHT-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GBuDpjUZx_yrVpDqcUHT-28" target="GBuDpjUZx_yrVpDqcUHT-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GBuDpjUZx_yrVpDqcUHT-69" value="买家,展会粒度" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
+          <mxGeometry x="523.6842105263158" y="421.0126582278481" width="102.63157894736844" height="31.139240506329113" as="geometry" />
+        </mxCell>
+        <mxCell id="GBuDpjUZx_yrVpDqcUHT-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GBuDpjUZx_yrVpDqcUHT-35" target="GBuDpjUZx_yrVpDqcUHT-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GBuDpjUZx_yrVpDqcUHT-71" value="买家,年粒度" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
+          <mxGeometry x="677.6315789473684" y="421.0126582278481" width="102.63157894736844" height="31.139240506329113" as="geometry" />
+        </mxCell>
+        <mxCell id="GBuDpjUZx_yrVpDqcUHT-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GBuDpjUZx_yrVpDqcUHT-35" target="GBuDpjUZx_yrVpDqcUHT-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GBuDpjUZx_yrVpDqcUHT-72" value="展会粒度" style="whiteSpace=wrap;html=1;rounded=0;container=0;" vertex="1" parent="1">
+          <mxGeometry x="523.6842105263158" y="498.86075949367086" width="102.63157894736844" height="31.139240506329113" as="geometry" />
+        </mxCell>
+        <mxCell id="GBuDpjUZx_yrVpDqcUHT-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GBuDpjUZx_yrVpDqcUHT-69" target="GBuDpjUZx_yrVpDqcUHT-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GBuDpjUZx_yrVpDqcUHT-73" value="买家粒度" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
+          <mxGeometry x="677.6315789473684" y="498.86075949367086" width="102.63157894736844" height="31.139240506329113" as="geometry" />
+        </mxCell>
+        <mxCell id="GBuDpjUZx_yrVpDqcUHT-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GBuDpjUZx_yrVpDqcUHT-71" target="GBuDpjUZx_yrVpDqcUHT-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
