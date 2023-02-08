@@ -1,1 +1,46 @@
-<mxfile host="app.diagrams.net" modified="2023-02-08T02:38:20.680Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.8.16" etag="ZSFuloIFCam9URwawBQH" type="github"><diagram name="第 1 页" id="ql0-44hJE-7MeZlADn6J">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-02-08T02:45:11.206Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="ej7pZlitpOJCheg-4c1L" version="20.8.16" type="github">
+  <diagram name="第 1 页" id="ql0-44hJE-7MeZlADn6J">
+    <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="4iVDDrstctLM3Es3jXq3-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4iVDDrstctLM3Es3jXq3-2" target="4iVDDrstctLM3Es3jXq3-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4iVDDrstctLM3Es3jXq3-2" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4iVDDrstctLM3Es3jXq3-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4iVDDrstctLM3Es3jXq3-9" target="4iVDDrstctLM3Es3jXq3-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4iVDDrstctLM3Es3jXq3-9" value="米奥中台_数据集成" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4iVDDrstctLM3Es3jXq3-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4iVDDrstctLM3Es3jXq3-13" target="4iVDDrstctLM3Es3jXq3-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4iVDDrstctLM3Es3jXq3-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4iVDDrstctLM3Es3jXq3-13" target="4iVDDrstctLM3Es3jXq3-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4iVDDrstctLM3Es3jXq3-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4iVDDrstctLM3Es3jXq3-13" target="4iVDDrstctLM3Es3jXq3-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4iVDDrstctLM3Es3jXq3-13" value="数据集成" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4iVDDrstctLM3Es3jXq3-14" value="实时数据集成离线" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4iVDDrstctLM3Es3jXq3-15" value="实时数据集成临时" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="410" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4iVDDrstctLM3Es3jXq3-20" value="tradechina" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4iVDDrstctLM3Es3jXq3-22" value="每个节点偶读有依赖，上游跟下游依赖，&lt;br&gt;参考ODS_247_BUSINESS_CARD_UPLOAD_REAL_TIME" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="480" y="240" width="340" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
