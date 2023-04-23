@@ -1,1 +1,58 @@
-<mxfile host="app.diagrams.net" modified="2023-04-23T09:34:04.187Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" version="20.8.20" etag="hrZ1a3aejYqDhjV775Ye" type="github"><diagram name="第 1 页" id="gtEWl72kHlS4sHUur0SS">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-04-23T10:12:27.238Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="WDnE9Ii3wdriF_xAMVio" version="20.8.20" type="github">
+  <diagram name="第 1 页" id="gtEWl72kHlS4sHUur0SS">
+    <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="F8DNK58dxu0QSvrAJN97-1" value="ads_cdp_contacts_vip&lt;br&gt;（展会id为分区）（BI用）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="395" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F8DNK58dxu0QSvrAJN97-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="F8DNK58dxu0QSvrAJN97-8" target="F8DNK58dxu0QSvrAJN97-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F8DNK58dxu0QSvrAJN97-8" value="23年3月印尼VIP规则&lt;br&gt;(跑过全量，已停更)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="390" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="F8DNK58dxu0QSvrAJN97-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="F8DNK58dxu0QSvrAJN97-10" target="F8DNK58dxu0QSvrAJN97-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F8DNK58dxu0QSvrAJN97-10" value="未开始的展会1&lt;br&gt;（规则1）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F8DNK58dxu0QSvrAJN97-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="F8DNK58dxu0QSvrAJN97-11" target="F8DNK58dxu0QSvrAJN97-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F8DNK58dxu0QSvrAJN97-11" value="未开始的展会2&lt;br&gt;（规则2）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F8DNK58dxu0QSvrAJN97-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="F8DNK58dxu0QSvrAJN97-12" target="F8DNK58dxu0QSvrAJN97-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F8DNK58dxu0QSvrAJN97-12" value="未开始的展会3&lt;br&gt;（规则3）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F8DNK58dxu0QSvrAJN97-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="F8DNK58dxu0QSvrAJN97-13" target="F8DNK58dxu0QSvrAJN97-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F8DNK58dxu0QSvrAJN97-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F8DNK58dxu0QSvrAJN97-13" target="F8DNK58dxu0QSvrAJN97-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F8DNK58dxu0QSvrAJN97-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="F8DNK58dxu0QSvrAJN97-13" target="F8DNK58dxu0QSvrAJN97-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F8DNK58dxu0QSvrAJN97-13" value="日更新" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F8DNK58dxu0QSvrAJN97-23" value="只更新未开始的展会数据" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="F8DNK58dxu0QSvrAJN97-19" target="F8DNK58dxu0QSvrAJN97-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F8DNK58dxu0QSvrAJN97-19" value="ads_cdp_contacts_vip_day&lt;br&gt;(可以追溯历史数据)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="250" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F8DNK58dxu0QSvrAJN97-28" value="根据展会时间，若展会结束&lt;br&gt;空跑数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="150" y="145" width="170" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
