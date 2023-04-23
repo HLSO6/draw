@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-23T10:12:30.266Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="oxO8P0mO8O5VE_7FPdtI" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-23T10:19:47.115Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="HcsWlErnjM3n854xFTo4" version="20.8.20" type="github">
   <diagram name="第 1 页" id="gtEWl72kHlS4sHUur0SS">
     <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -49,8 +49,8 @@
         <mxCell id="F8DNK58dxu0QSvrAJN97-19" value="ads_cdp_contacts_vip_day&lt;br&gt;(可以追溯历史数据)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="250" width="240" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="F8DNK58dxu0QSvrAJN97-28" value="根据展会时间，若展会结束&lt;br&gt;空跑数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="150" y="145" width="170" height="40" as="geometry" />
+        <mxCell id="F8DNK58dxu0QSvrAJN97-28" value="根据展会时间，若展会结束&lt;br&gt;空跑数据&lt;br&gt;或 配置脚本运行时间" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="150" y="135" width="170" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
