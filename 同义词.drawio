@@ -1,9 +1,46 @@
-<mxfile host="app.diagrams.net" modified="2023-05-23T02:29:08.374Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" version="21.3.2" etag="dshVPJNC-tw486MMmO-Z" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-23T02:35:14.258Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="mgiid_V06HuKQ2Mk0kqg" version="21.3.2" type="github">
   <diagram name="第 1 页" id="RDS42I0NY6L_I4rv3_Lb">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="1965" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="1wq5Pubd9aAvgaB4DzRs-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1wq5Pubd9aAvgaB4DzRs-1" target="1wq5Pubd9aAvgaB4DzRs-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="460" y="110" />
+              <mxPoint x="240" y="110" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1wq5Pubd9aAvgaB4DzRs-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1wq5Pubd9aAvgaB4DzRs-1" target="1wq5Pubd9aAvgaB4DzRs-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1wq5Pubd9aAvgaB4DzRs-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1wq5Pubd9aAvgaB4DzRs-1" target="1wq5Pubd9aAvgaB4DzRs-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="460" y="110" />
+              <mxPoint x="660" y="110" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1wq5Pubd9aAvgaB4DzRs-1" value="同义词库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="-50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1wq5Pubd9aAvgaB4DzRs-2" value="近义词" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1wq5Pubd9aAvgaB4DzRs-4" value="品牌" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1wq5Pubd9aAvgaB4DzRs-6" value="土豆,洋芋,马铃薯" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="130" y="180" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1wq5Pubd9aAvgaB4DzRs-7" value="手机，小米，苹果&lt;br&gt;汽车，特斯拉，小鹏，奥迪" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="305" y="175" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1wq5Pubd9aAvgaB4DzRs-8" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
