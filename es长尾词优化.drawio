@@ -1,9 +1,80 @@
-<mxfile host="app.diagrams.net" modified="2023-06-08T06:23:18.027Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" version="21.3.2" etag="-smFOvPjY0821_JGbsVL" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-08T06:37:07.642Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="JEBR8zlFlJ0NspL_NSPk" version="21.3.2" type="github">
   <diagram name="第 1 页" id="62kFELT9x6iCUjwGjMxL">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="0QGT_N69miXcDsaBbvX0-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0QGT_N69miXcDsaBbvX0-1" target="0QGT_N69miXcDsaBbvX0-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0QGT_N69miXcDsaBbvX0-1" value="oss" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0QGT_N69miXcDsaBbvX0-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0QGT_N69miXcDsaBbvX0-2" target="0QGT_N69miXcDsaBbvX0-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0QGT_N69miXcDsaBbvX0-2" value="odps" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0QGT_N69miXcDsaBbvX0-4" value="es" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0QGT_N69miXcDsaBbvX0-6" value="ads_long_tailed_word" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="290" y="140" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0QGT_N69miXcDsaBbvX0-7" value="1.oss://prod-datathink-com/词库/长尾词/&lt;br&gt;2.可以新增csv文件，格式固定，下游处理重复" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="20" y="123" width="270" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0QGT_N69miXcDsaBbvX0-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0QGT_N69miXcDsaBbvX0-9" target="0QGT_N69miXcDsaBbvX0-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0QGT_N69miXcDsaBbvX0-9" value="代码端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="345" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0QGT_N69miXcDsaBbvX0-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0QGT_N69miXcDsaBbvX0-11" target="0QGT_N69miXcDsaBbvX0-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0QGT_N69miXcDsaBbvX0-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0QGT_N69miXcDsaBbvX0-11" target="0QGT_N69miXcDsaBbvX0-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0QGT_N69miXcDsaBbvX0-11" value="关键词搜索&lt;br&gt;1.标准词，词根 filter过滤&lt;br&gt;2.长尾词 boost为-1，降权" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="340" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="0QGT_N69miXcDsaBbvX0-13" value="keyword" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="185" y="348" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0QGT_N69miXcDsaBbvX0-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0QGT_N69miXcDsaBbvX0-14" target="0QGT_N69miXcDsaBbvX0-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0QGT_N69miXcDsaBbvX0-14" value="高亮" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="615" y="345" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0QGT_N69miXcDsaBbvX0-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0QGT_N69miXcDsaBbvX0-16" target="0QGT_N69miXcDsaBbvX0-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0QGT_N69miXcDsaBbvX0-22" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0QGT_N69miXcDsaBbvX0-19">
+          <mxGeometry x="-0.2889" y="5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0QGT_N69miXcDsaBbvX0-21" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0QGT_N69miXcDsaBbvX0-16" target="0QGT_N69miXcDsaBbvX0-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0QGT_N69miXcDsaBbvX0-16" value="评分是否大于等于0" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="635" y="475" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0QGT_N69miXcDsaBbvX0-18" value="优先使用词根高亮&lt;br&gt;其次原始词高亮" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="615" y="645" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0QGT_N69miXcDsaBbvX0-20" value="长尾词高亮召回，不高亮" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="780" y="482.5" width="154" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="0QGT_N69miXcDsaBbvX0-23" value="排序，第一轮根据评分分类，降序排列&lt;br&gt;if(_score &amp;gt;0 ){2} else if(_score == 0 ) {1}&amp;nbsp; else{0}" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="252.5" y="510" width="265" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="0QGT_N69miXcDsaBbvX0-25" value="&amp;gt;0:公司名称精准匹配&lt;br&gt;=0:标准词，词根匹配&lt;br&gt;&amp;lt;0:长尾词匹配" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="100" y="515" width="140" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
