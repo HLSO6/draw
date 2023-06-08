@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-08T06:42:30.554Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="R-VNNbzslZZOf37qyDMQ" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-08T06:43:35.840Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="0QzQ4oPf1Uzgog5JKALD" version="21.3.2" type="github">
   <diagram name="第 1 页" id="62kFELT9x6iCUjwGjMxL">
     <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -78,7 +78,7 @@
         <mxCell id="0QGT_N69miXcDsaBbvX0-26" value="搜索phone，phone case时， &lt;br&gt;case phone会被高亮，&lt;br&gt;需要特殊逻辑处理" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="817" y="275" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0QGT_N69miXcDsaBbvX0-29" value="hscode_desc&lt;br&gt;hscode_desc.english" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="0QGT_N69miXcDsaBbvX0-29" value="&lt;div&gt;hscode_desc.english&lt;/div&gt;&lt;div&gt;hscode_desc&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="810" y="605" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0QGT_N69miXcDsaBbvX0-30" value="hscode_desc.long_tailed_word" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
