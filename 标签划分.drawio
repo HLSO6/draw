@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-13T03:55:42.044Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="5UGjbtdfvs_a5h-ovFq7" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-13T03:59:04.331Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="ptQldRZNqbGMy0DitmT-" version="21.5.0" type="github">
   <diagram name="Page-1" id="10a91c8b-09ff-31b1-d368-03940ed4cc9e">
     <mxGraphModel dx="3069" dy="1775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -30,10 +30,10 @@
         <mxCell id="62893188c0fa7362-11" value="&lt;span&gt;阿里标签&lt;/span&gt;体系&lt;br&gt;（5243个）" style="whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="1000" y="-90" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="62893188c0fa7362-12" value="&lt;span&gt;商洽行为&lt;br&gt;20-50个&lt;br&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
+        <mxCell id="62893188c0fa7362-12" value="&lt;span&gt;商洽行为&lt;br&gt;40个左右&lt;br&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="-210" y="50" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="62893188c0fa7362-13" value="&lt;span&gt;到展行为&lt;br&gt;10-30个&lt;br&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
+        <mxCell id="62893188c0fa7362-13" value="&lt;span&gt;到展行为&lt;br&gt;20个左右&lt;br&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="-10" y="50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uT71Bbt4KiQEfUANzaNA-7" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="62893188c0fa7362-12" target="62893188c0fa7362-8">
@@ -88,7 +88,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uT71Bbt4KiQEfUANzaNA-24" value="展前行为&lt;br&gt;10到15个" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+        <mxCell id="uT71Bbt4KiQEfUANzaNA-24" value="展前行为&lt;br&gt;10个左右" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
           <mxGeometry x="180" y="50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uT71Bbt4KiQEfUANzaNA-27" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="uT71Bbt4KiQEfUANzaNA-24" target="62893188c0fa7362-8">
@@ -97,10 +97,10 @@
             <mxPoint x="10" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uT71Bbt4KiQEfUANzaNA-28" value="&lt;span&gt;商洽行为（10个）&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+        <mxCell id="uT71Bbt4KiQEfUANzaNA-28" value="&lt;span&gt;商洽行为&lt;br&gt;（10个左右）&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
           <mxGeometry x="450" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uT71Bbt4KiQEfUANzaNA-29" value="&lt;span&gt;扫码行为（5个）&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+        <mxCell id="uT71Bbt4KiQEfUANzaNA-29" value="&lt;span&gt;扫码行为&lt;br&gt;（5个左右）&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
           <mxGeometry x="660" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uT71Bbt4KiQEfUANzaNA-42" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.567;exitY=-0.017;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="uT71Bbt4KiQEfUANzaNA-28" target="62893188c0fa7362-9">
@@ -192,6 +192,9 @@
           <mxGeometry x="-0.2059" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="uT71Bbt4KiQEfUANzaNA-110" value="&lt;div&gt;3C家电&lt;/div&gt;&lt;div&gt;孕婴童&lt;/div&gt;&lt;div&gt;家居&lt;/div&gt;&lt;div&gt;工业机械&lt;/div&gt;&lt;div&gt;建材&lt;/div&gt;&lt;div&gt;电力新能源&lt;/div&gt;&lt;div&gt;纺织服装&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="220" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
