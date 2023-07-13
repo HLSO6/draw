@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-13T03:49:34.318Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="ww9wApOrETpotV3BxycY" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-13T03:55:42.044Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="5UGjbtdfvs_a5h-ovFq7" version="21.5.0" type="github">
   <diagram name="Page-1" id="10a91c8b-09ff-31b1-d368-03940ed4cc9e">
     <mxGraphModel dx="3069" dy="1775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -24,10 +24,10 @@
         <mxCell id="62893188c0fa7362-9" value="&lt;span&gt;展商行为&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="560" y="-90" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="62893188c0fa7362-10" value="&lt;span&gt;米奥标签&lt;/span&gt;体系" style="whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
+        <mxCell id="62893188c0fa7362-10" value="&lt;span&gt;米奥标签&lt;/span&gt;体系&lt;br&gt;（6990）" style="whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="810" y="-90" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="62893188c0fa7362-11" value="&lt;span&gt;阿里标签&lt;/span&gt;体系" style="whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
+        <mxCell id="62893188c0fa7362-11" value="&lt;span&gt;阿里标签&lt;/span&gt;体系&lt;br&gt;（5243个）" style="whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="1000" y="-90" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="62893188c0fa7362-12" value="&lt;span&gt;商洽行为&lt;br&gt;20-50个&lt;br&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
@@ -68,10 +68,10 @@
             <mxPoint x="460" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uT71Bbt4KiQEfUANzaNA-18" value="&lt;span&gt;hscode标签&lt;/span&gt;体系" style="whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+        <mxCell id="uT71Bbt4KiQEfUANzaNA-18" value="&lt;span&gt;hscode标签&lt;/span&gt;体系6位&lt;br&gt;(6554)" style="whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
           <mxGeometry x="1190" y="-90" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uT71Bbt4KiQEfUANzaNA-19" value="naics标签体系" style="whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+        <mxCell id="uT71Bbt4KiQEfUANzaNA-19" value="naics标签体系&lt;br&gt;（1057）" style="whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
           <mxGeometry x="1400" y="-90" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uT71Bbt4KiQEfUANzaNA-20" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="uT71Bbt4KiQEfUANzaNA-18" target="62893188c0fa7362-3">
