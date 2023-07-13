@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-13T06:47:07.569Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Q-31sGw8ow7CGgsMmVqH" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-13T08:18:49.066Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="XUna37-v2s2JE76YUVQy" version="21.5.0" type="github">
   <diagram name="Page-1" id="10a91c8b-09ff-31b1-d368-03940ed4cc9e">
     <mxGraphModel dx="3069" dy="1775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -18,11 +18,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="62893188c0fa7362-8" value="&lt;span&gt;买家行为&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
-          <mxGeometry x="40" y="-90" width="120" height="60" as="geometry" />
+        <mxCell id="62893188c0fa7362-8" value="买家粒度,买家展会粒度" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
+          <mxGeometry x="-30" y="49.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="62893188c0fa7362-9" value="&lt;span&gt;展商行为&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
-          <mxGeometry x="560" y="-90" width="120" height="60" as="geometry" />
+          <mxGeometry x="530" y="-80.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="62893188c0fa7362-10" value="&lt;span&gt;米奥标签&lt;/span&gt;体系&lt;br&gt;（6990）" style="whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="800" y="-90" width="120" height="60" as="geometry" />
@@ -30,16 +30,16 @@
         <mxCell id="62893188c0fa7362-11" value="&lt;span&gt;阿里标签&lt;/span&gt;体系&lt;br&gt;（5243个）" style="whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="1000" y="-90" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="62893188c0fa7362-12" value="&lt;span&gt;商洽行为&lt;br&gt;40个左右&lt;br&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
-          <mxGeometry x="-210" y="50" width="120" height="60" as="geometry" />
+        <mxCell id="62893188c0fa7362-12" value="预注册&lt;span&gt;&lt;br&gt;10个左右&lt;br&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
+          <mxGeometry x="-390" y="160.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="62893188c0fa7362-13" value="&lt;span&gt;到展行为&lt;br&gt;20个左右&lt;br&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
-          <mxGeometry x="-10" y="50" width="120" height="60" as="geometry" />
+        <mxCell id="62893188c0fa7362-13" value="现场扫码&lt;span&gt;&lt;br&gt;8个左右&lt;br&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
+          <mxGeometry x="-205" y="160.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uT71Bbt4KiQEfUANzaNA-7" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="62893188c0fa7362-12" target="62893188c0fa7362-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="120" y="400" as="sourcePoint" />
-            <mxPoint x="170" y="350" as="targetPoint" />
+            <mxPoint x="90" y="409.5" as="sourcePoint" />
+            <mxPoint x="140" y="359.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="uT71Bbt4KiQEfUANzaNA-13" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="62893188c0fa7362-3" target="62893188c0fa7362-1">
@@ -64,8 +64,8 @@
         </mxCell>
         <mxCell id="uT71Bbt4KiQEfUANzaNA-16" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="62893188c0fa7362-9" target="62893188c0fa7362-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="410" y="290" as="sourcePoint" />
-            <mxPoint x="460" y="240" as="targetPoint" />
+            <mxPoint x="380" y="299.5" as="sourcePoint" />
+            <mxPoint x="400" y="-120.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="uT71Bbt4KiQEfUANzaNA-18" value="&lt;span&gt;hscode标签&lt;/span&gt;体系6位&lt;br&gt;(6554)" style="whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
@@ -88,56 +88,47 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uT71Bbt4KiQEfUANzaNA-24" value="展前行为&lt;br&gt;10个左右" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
-          <mxGeometry x="180" y="50" width="120" height="60" as="geometry" />
+        <mxCell id="uT71Bbt4KiQEfUANzaNA-24" value="商洽&lt;br&gt;10个左右" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="160.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uT71Bbt4KiQEfUANzaNA-27" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="uT71Bbt4KiQEfUANzaNA-24" target="62893188c0fa7362-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="90" y="415" as="sourcePoint" />
-            <mxPoint x="10" y="350" as="targetPoint" />
+            <mxPoint x="60" y="424.5" as="sourcePoint" />
+            <mxPoint x="-20" y="359.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="uT71Bbt4KiQEfUANzaNA-28" value="&lt;span&gt;商洽行为&lt;br&gt;（10个左右）&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
-          <mxGeometry x="450" y="40" width="120" height="60" as="geometry" />
+          <mxGeometry x="420" y="49.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uT71Bbt4KiQEfUANzaNA-29" value="&lt;span&gt;扫码行为&lt;br&gt;（5个左右）&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
           <mxGeometry x="660" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uT71Bbt4KiQEfUANzaNA-42" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.567;exitY=-0.017;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="uT71Bbt4KiQEfUANzaNA-28" target="62893188c0fa7362-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="530" y="433" as="sourcePoint" />
-            <mxPoint x="540" y="500" as="targetPoint" />
+            <mxPoint x="500" y="442.5" as="sourcePoint" />
+            <mxPoint x="510" y="509.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="uT71Bbt4KiQEfUANzaNA-44" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="uT71Bbt4KiQEfUANzaNA-29" target="62893188c0fa7362-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="549" y="443" as="sourcePoint" />
-            <mxPoint x="750" y="390" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="uT71Bbt4KiQEfUANzaNA-69" value="" style="endArrow=none;html=1;rounded=0;entryX=0.427;entryY=1.025;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1" source="62893188c0fa7362-8" target="62893188c0fa7362-2">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-570" y="415" as="sourcePoint" />
-            <mxPoint x="-230" y="340" as="targetPoint" />
+            <mxPoint x="690" y="49.5" as="sourcePoint" />
+            <mxPoint x="720" y="399.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="uT71Bbt4KiQEfUANzaNA-70" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="62893188c0fa7362-13" target="62893188c0fa7362-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-570" y="415" as="sourcePoint" />
-            <mxPoint x="360" y="-20" as="targetPoint" />
+            <mxPoint x="-600" y="424.5" as="sourcePoint" />
+            <mxPoint x="330" y="-10.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uT71Bbt4KiQEfUANzaNA-77" value="是否商洽&lt;br&gt;商洽次数&lt;br&gt;商洽时间&lt;br&gt;平均商洽时间&lt;br&gt;。。。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-210" y="160" width="80" height="20" as="geometry" />
+        <mxCell id="uT71Bbt4KiQEfUANzaNA-77" value="是否是预注册买家&lt;br&gt;买家预注册次数&lt;br&gt;是否历届预注册买家&lt;br&gt;是否本年预注册买家&lt;br&gt;买家兴趣标签&lt;br&gt;。。。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-390" y="259.5" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="uT71Bbt4KiQEfUANzaNA-78" value="是否到展&lt;br&gt;是否签到&lt;br&gt;到展次数&lt;br&gt;最早到展时间&lt;br&gt;扫码次数&lt;br&gt;&lt;div&gt;买家参展次数&lt;/div&gt;&lt;div&gt;买家兴趣标签code合集&lt;/div&gt;&lt;div&gt;买家参展合集&lt;/div&gt;&lt;div&gt;最早到展展会开始时间&lt;/div&gt;&lt;div&gt;双线展最早预注册时间&lt;/div&gt;。。。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-10" y="209.5" width="90" height="31" as="geometry" />
-        </mxCell>
-        <mxCell id="uT71Bbt4KiQEfUANzaNA-82" value="是否是预注册买家&lt;br&gt;兴趣标签集合&lt;br&gt;是否拨打过电话&lt;br&gt;是否同意到展&lt;br&gt;。。。。" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="180" y="119.5" width="120" height="90" as="geometry" />
+        <mxCell id="uT71Bbt4KiQEfUANzaNA-82" value="是否签到&lt;br&gt;最早签到时间&lt;br&gt;参展次数&lt;br&gt;。。。。" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="100" y="240" width="100" height="70" as="geometry" />
         </mxCell>
         <mxCell id="uT71Bbt4KiQEfUANzaNA-83" value="是否商洽&lt;br&gt;商洽次数&lt;br&gt;商洽时间&lt;br&gt;平均商洽时间&lt;br&gt;展商自选买家数&lt;br&gt;展商自提买家数&lt;br&gt;。。。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="450" y="149" width="110" height="20" as="geometry" />
+          <mxGeometry x="420" y="158.5" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="uT71Bbt4KiQEfUANzaNA-84" value="展商扫码买家数&lt;br&gt;是否现场扫码&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="660" y="119.5" width="90" height="31" as="geometry" />
@@ -210,12 +201,6 @@
         </mxCell>
         <mxCell id="uT71Bbt4KiQEfUANzaNA-116" value="其他" style="whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
           <mxGeometry x="760" y="490" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="uT71Bbt4KiQEfUANzaNA-117" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="62893188c0fa7362-12" target="uT71Bbt4KiQEfUANzaNA-111">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-140" y="60" as="sourcePoint" />
-            <mxPoint x="110" y="-20" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="uT71Bbt4KiQEfUANzaNA-118" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="62893188c0fa7362-13" target="uT71Bbt4KiQEfUANzaNA-111">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -340,6 +325,45 @@
             <mxPoint x="1010" y="330" as="sourcePoint" />
             <mxPoint x="870" y="-30" as="targetPoint" />
             <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uT71Bbt4KiQEfUANzaNA-151" value="其他&lt;br&gt;40个左右" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+          <mxGeometry x="250" y="160.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uT71Bbt4KiQEfUANzaNA-154" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="uT71Bbt4KiQEfUANzaNA-151">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="70" as="sourcePoint" />
+            <mxPoint x="30" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uT71Bbt4KiQEfUANzaNA-155" value="买家行为" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+          <mxGeometry x="120" y="-70" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uT71Bbt4KiQEfUANzaNA-157" value="签到&lt;br&gt;5个左右" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+          <mxGeometry x="100" y="160.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uT71Bbt4KiQEfUANzaNA-159" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="62893188c0fa7362-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-310" y="120" as="sourcePoint" />
+            <mxPoint x="320" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uT71Bbt4KiQEfUANzaNA-78" value="是否到展&lt;br&gt;扫码次数&lt;br&gt;&lt;div&gt;买家参展次数&lt;/div&gt;&lt;div&gt;买家参展合集&lt;/div&gt;&lt;div&gt;最早到展时间&lt;/div&gt;。。。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-205" y="266" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uT71Bbt4KiQEfUANzaNA-162" value="是否商洽&amp;nbsp;&lt;br&gt;商洽次数&lt;br&gt;商洽展商合集&lt;br&gt;最近商洽时间&lt;br&gt;。。。。" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="230" width="100" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="uT71Bbt4KiQEfUANzaNA-166" value="" style="endArrow=none;html=1;rounded=0;exitX=0.44;exitY=1.034;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="62893188c0fa7362-2" target="uT71Bbt4KiQEfUANzaNA-155">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="171" as="sourcePoint" />
+            <mxPoint x="40" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uT71Bbt4KiQEfUANzaNA-167" value="" style="endArrow=none;html=1;rounded=0;exitX=0.567;exitY=0.003;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="62893188c0fa7362-8" target="uT71Bbt4KiQEfUANzaNA-155">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="433" y="-118" as="sourcePoint" />
+            <mxPoint x="195" y="-60" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
