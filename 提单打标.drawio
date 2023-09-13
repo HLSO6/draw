@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-13T03:54:10.494Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="jBmpwVYtPoDNEkSZxyCB" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-13T06:06:22.159Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="D8LrEXUdAddy2QOtHFlI" version="21.6.5" type="github">
   <diagram name="第 1 页" id="FAnIuLgTCHDIlc2Tidce">
     <mxGraphModel dx="1434" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,23 +7,77 @@
         <mxCell id="ex-zHGhYqEyVQdiq-B5v-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ex-zHGhYqEyVQdiq-B5v-1" target="ex-zHGhYqEyVQdiq-B5v-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="ex-zHGhYqEyVQdiq-B5v-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ex-zHGhYqEyVQdiq-B5v-1" target="ex-zHGhYqEyVQdiq-B5v-25">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="675" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ex-zHGhYqEyVQdiq-B5v-1" value="CDP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="120" width="120" height="60" as="geometry" />
+          <mxGeometry x="615" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ex-zHGhYqEyVQdiq-B5v-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ex-zHGhYqEyVQdiq-B5v-2" target="ex-zHGhYqEyVQdiq-B5v-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ex-zHGhYqEyVQdiq-B5v-2" value="CDP端提单标签&lt;br&gt;is_bill_of_lading_buyer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="325" y="260" width="130" height="60" as="geometry" />
+          <mxGeometry x="610" y="400" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ex-zHGhYqEyVQdiq-B5v-3" value="&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ,IF(&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; (&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; instr(CONCAT(&quot;,&quot;,dcd.data_source,&quot;,&quot;),&quot;,1,&quot;)&amp;gt;0 &lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;--进口提单&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; OR instr(CONCAT(&quot;,&quot;,dcd.data_source,&quot;,&quot;),&quot;,10,&quot;)&amp;gt;0 &lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;--出口数据&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; OR instr(CONCAT(&quot;,&quot;,dcd.data_source,&quot;,&quot;),&quot;,11,&quot;)&amp;gt;0 &lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;--航运数据&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; OR instr(CONCAT(&quot;,&quot;,dcd.data_source,&quot;,&quot;),&quot;,12,&quot;)&amp;gt;0&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;--过境数据&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; OR instr(CONCAT(&quot;,&quot;,dcd.data_source,&quot;,&quot;),&quot;,30,&quot;)&amp;gt;0&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;--2017年以前的提单&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; OR instr(CONCAT(&quot;,&quot;,dcd.data_source,&quot;,&quot;),&quot;,58,&quot;)&amp;gt;0&amp;nbsp; &amp;nbsp;--国贸通（提单）&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; OR meo247.is_bil_buyer = &quot;1&quot;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;-- zoho模糊打标的提单买家，预注册模糊打标的提单买家&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ) AND dcd.trade_type = &quot;0&quot;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;-- 正常公司&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; and&amp;nbsp; COALESCE(meo247.is_test_buyer,&quot;0&quot;) != &quot;1&quot;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; --非业务端测试数据&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; AND&amp;nbsp; &amp;nbsp;LENGTH(dcd.company_name_v2)&amp;nbsp; &amp;gt;= 5&amp;nbsp; &amp;nbsp; &amp;nbsp;-- 公司名称大于5位&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ,1&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ,0&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; )&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="460" y="175" width="610" height="230" as="geometry" />
+          <mxGeometry x="720" y="370" width="610" height="230" as="geometry" />
         </mxCell>
         <mxCell id="ex-zHGhYqEyVQdiq-B5v-5" value="接口端提单标签" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="330" y="430" width="120" height="60" as="geometry" />
+          <mxGeometry x="615" y="760" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ex-zHGhYqEyVQdiq-B5v-7" value="&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; query.must(QueryBuilders.matchQuery(&quot;data_source&quot;,&quot;1,10,11,12,30&quot;).operator(Operator.OR).analyzer(&quot;douhao_mult&quot;));&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; query.must(QueryBuilders.termQuery(&quot;is_bill_of_lading_buyer&quot;,&quot;1&quot;));&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; query.must(QueryBuilders.termQuery(&quot;trade_type&quot;,&quot;0&quot;));&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="460" y="430" width="690" height="60" as="geometry" />
+          <mxGeometry x="770" y="760" width="690" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ex-zHGhYqEyVQdiq-B5v-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ex-zHGhYqEyVQdiq-B5v-8" target="ex-zHGhYqEyVQdiq-B5v-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ex-zHGhYqEyVQdiq-B5v-8" value="买家实时预注册" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ex-zHGhYqEyVQdiq-B5v-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ex-zHGhYqEyVQdiq-B5v-10" target="ex-zHGhYqEyVQdiq-B5v-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="840" y="150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ex-zHGhYqEyVQdiq-B5v-10" value="zoho增量数据入cdp" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ex-zHGhYqEyVQdiq-B5v-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ex-zHGhYqEyVQdiq-B5v-14" target="ex-zHGhYqEyVQdiq-B5v-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ex-zHGhYqEyVQdiq-B5v-14" value="调用es接口，买家被打上提单标签" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ex-zHGhYqEyVQdiq-B5v-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ex-zHGhYqEyVQdiq-B5v-25" target="ex-zHGhYqEyVQdiq-B5v-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ex-zHGhYqEyVQdiq-B5v-25" value="zoho的增量买家" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="870" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ex-zHGhYqEyVQdiq-B5v-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ex-zHGhYqEyVQdiq-B5v-31" target="ex-zHGhYqEyVQdiq-B5v-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ex-zHGhYqEyVQdiq-B5v-31" value="调用es接口，买家被打上提单标签" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ex-zHGhYqEyVQdiq-B5v-33" value="同步到zoho系统" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1270" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ex-zHGhYqEyVQdiq-B5v-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ex-zHGhYqEyVQdiq-B5v-35" target="ex-zHGhYqEyVQdiq-B5v-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1030" y="150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ex-zHGhYqEyVQdiq-B5v-35" value="zoho的提单标签" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="970" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
