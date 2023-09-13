@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-13T06:13:29.542Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="0rGSGpjYHcWPeXE4ZAD5" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-13T06:15:22.356Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="9yJ0COknqQDIariL9mMT" version="21.6.5" type="github">
   <diagram name="第 1 页" id="FAnIuLgTCHDIlc2Tidce">
     <mxGraphModel dx="1434" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,11 +7,21 @@
         <mxCell id="ex-zHGhYqEyVQdiq-B5v-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ex-zHGhYqEyVQdiq-B5v-1" target="ex-zHGhYqEyVQdiq-B5v-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="ex-zHGhYqEyVQdiq-B5v-59" value="T+1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ex-zHGhYqEyVQdiq-B5v-4">
+          <mxGeometry x="0.5091" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ex-zHGhYqEyVQdiq-B5v-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ex-zHGhYqEyVQdiq-B5v-1" target="ex-zHGhYqEyVQdiq-B5v-25">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="675" y="270" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ex-zHGhYqEyVQdiq-B5v-54" value="T+1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ex-zHGhYqEyVQdiq-B5v-30">
+          <mxGeometry x="0.2842" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ex-zHGhYqEyVQdiq-B5v-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ex-zHGhYqEyVQdiq-B5v-1" target="ex-zHGhYqEyVQdiq-B5v-43">
@@ -21,11 +31,21 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="ex-zHGhYqEyVQdiq-B5v-57" value="T+1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ex-zHGhYqEyVQdiq-B5v-46">
+          <mxGeometry x="0.3377" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ex-zHGhYqEyVQdiq-B5v-1" value="CDP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="615" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ex-zHGhYqEyVQdiq-B5v-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ex-zHGhYqEyVQdiq-B5v-2" target="ex-zHGhYqEyVQdiq-B5v-5">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ex-zHGhYqEyVQdiq-B5v-60" value="T+1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ex-zHGhYqEyVQdiq-B5v-6">
+          <mxGeometry x="0.3417" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="ex-zHGhYqEyVQdiq-B5v-2" value="CDP端买家总表的提单标签&lt;br&gt;is_bill_of_lading_buyer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="400" width="130" height="60" as="geometry" />
@@ -49,6 +69,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="ex-zHGhYqEyVQdiq-B5v-49" value="T+1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ex-zHGhYqEyVQdiq-B5v-39">
+          <mxGeometry x="0.3009" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ex-zHGhYqEyVQdiq-B5v-8" value="买家预注册" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="120" width="120" height="60" as="geometry" />
         </mxCell>
@@ -57,6 +82,11 @@
             <Array as="points">
               <mxPoint x="840" y="150" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ex-zHGhYqEyVQdiq-B5v-52" value="T+1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ex-zHGhYqEyVQdiq-B5v-24">
+          <mxGeometry x="-0.5179" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ex-zHGhYqEyVQdiq-B5v-10" value="zoho增量数据入cdp" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
@@ -71,11 +101,21 @@
         <mxCell id="ex-zHGhYqEyVQdiq-B5v-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ex-zHGhYqEyVQdiq-B5v-25" target="ex-zHGhYqEyVQdiq-B5v-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="ex-zHGhYqEyVQdiq-B5v-55" value="T+1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ex-zHGhYqEyVQdiq-B5v-32">
+          <mxGeometry x="-0.275" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ex-zHGhYqEyVQdiq-B5v-25" value="zoho的增量买家" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="870" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ex-zHGhYqEyVQdiq-B5v-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ex-zHGhYqEyVQdiq-B5v-31" target="ex-zHGhYqEyVQdiq-B5v-33">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ex-zHGhYqEyVQdiq-B5v-56" value="T+1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ex-zHGhYqEyVQdiq-B5v-34">
+          <mxGeometry x="-0.175" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="ex-zHGhYqEyVQdiq-B5v-31" value="调用es接口，买家被打上提单标签" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1070" y="240" width="120" height="60" as="geometry" />
@@ -90,17 +130,32 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="ex-zHGhYqEyVQdiq-B5v-53" value="T+2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ex-zHGhYqEyVQdiq-B5v-36">
+          <mxGeometry x="-0.787" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ex-zHGhYqEyVQdiq-B5v-35" value="zoho的提单标签" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="970" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ex-zHGhYqEyVQdiq-B5v-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ex-zHGhYqEyVQdiq-B5v-37" target="ex-zHGhYqEyVQdiq-B5v-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="ex-zHGhYqEyVQdiq-B5v-51" value="T+1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ex-zHGhYqEyVQdiq-B5v-40">
+          <mxGeometry x="-0.5034" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ex-zHGhYqEyVQdiq-B5v-37" value="预注册的提单标签" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ex-zHGhYqEyVQdiq-B5v-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ex-zHGhYqEyVQdiq-B5v-43" target="ex-zHGhYqEyVQdiq-B5v-47">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ex-zHGhYqEyVQdiq-B5v-58" value="T+1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ex-zHGhYqEyVQdiq-B5v-48">
+          <mxGeometry x="-0.1789" y="5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="ex-zHGhYqEyVQdiq-B5v-43" value="预注册报表端" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="340" y="240" width="120" height="60" as="geometry" />
