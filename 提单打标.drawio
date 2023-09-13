@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-13T06:13:14.665Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="C2lb0nYHWQb2TIdehyH6" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-13T06:13:29.542Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="0rGSGpjYHcWPeXE4ZAD5" version="21.6.5" type="github">
   <diagram name="第 1 页" id="FAnIuLgTCHDIlc2Tidce">
     <mxGraphModel dx="1434" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -105,7 +105,7 @@
         <mxCell id="ex-zHGhYqEyVQdiq-B5v-43" value="预注册报表端" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="340" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ex-zHGhYqEyVQdiq-B5v-47" value="1.通过预注册打标的提单标签&lt;br&gt;2.zoho端打标的提单标签&lt;br&gt;使用邮箱关联的方式，任意一个买家是提单，则预注册买家是提单" style="whiteSpace=wrap;html=1;rounded=0;align=left;" vertex="1" parent="1">
+        <mxCell id="ex-zHGhYqEyVQdiq-B5v-47" value="1.预注册打标的提单标签&lt;br&gt;2.zoho端打标的提单标签&lt;br&gt;使用邮箱关联的方式，任意一个买家是提单，则预注册买家是提单" style="whiteSpace=wrap;html=1;rounded=0;align=left;" vertex="1" parent="1">
           <mxGeometry x="297.5" y="395" width="205" height="70" as="geometry" />
         </mxCell>
       </root>
