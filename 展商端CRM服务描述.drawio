@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-15T08:55:48.958Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="kY8OCN6K6m2VH0-wv-fp" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-15T08:56:26.940Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="RQe0e1T5SuwLEY91R1zi" version="21.6.5" type="github">
   <diagram name="第 1 页" id="V-jUfaKgBopeDCFPtn5s">
     <mxGraphModel dx="2261" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -132,9 +132,9 @@
         <mxCell id="g1EsS8LT877fpJEOsQrV-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="g1EsS8LT877fpJEOsQrV-64" target="g1EsS8LT877fpJEOsQrV-66">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="g1EsS8LT877fpJEOsQrV-69" value="10多张表" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="g1EsS8LT877fpJEOsQrV-67">
+        <mxCell id="g1EsS8LT877fpJEOsQrV-69" value="10多张表&lt;br&gt;400+字段" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="g1EsS8LT877fpJEOsQrV-67">
           <mxGeometry x="-0.0556" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="g1EsS8LT877fpJEOsQrV-64" value="展商端CRM后台DB" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
