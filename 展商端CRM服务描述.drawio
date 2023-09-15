@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-15T08:52:34.161Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="ZM3rF_HVbNN6wAqeHn8K" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-15T08:55:48.958Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="kY8OCN6K6m2VH0-wv-fp" version="21.6.5" type="github">
   <diagram name="第 1 页" id="V-jUfaKgBopeDCFPtn5s">
     <mxGraphModel dx="2261" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -88,7 +88,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="g1EsS8LT877fpJEOsQrV-27" value="需要二次处理，落地到DB需要主键唯一的数据" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="g1EsS8LT877fpJEOsQrV-27" value="需要二次处理，落地到DB前需要主键唯一的逻辑处理" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="990" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="g1EsS8LT877fpJEOsQrV-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="g1EsS8LT877fpJEOsQrV-29" target="g1EsS8LT877fpJEOsQrV-32">
