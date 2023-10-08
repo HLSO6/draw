@@ -1,9 +1,95 @@
-<mxfile host="app.diagrams.net" modified="2023-10-08T02:28:57.202Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" version="21.8.2" etag="BO7Fx8lDEMBrv4SGP0dn" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-08T02:59:54.483Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="556q-aK7_D7vz3UATMlm" version="21.8.2" type="github">
   <diagram name="第 1 页" id="B0u0qP6Ox10hgRosd-uH">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Ub4OFuhFQUp2Yog0MxQl-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ub4OFuhFQUp2Yog0MxQl-1" target="Ub4OFuhFQUp2Yog0MxQl-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ub4OFuhFQUp2Yog0MxQl-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ub4OFuhFQUp2Yog0MxQl-1" target="Ub4OFuhFQUp2Yog0MxQl-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ub4OFuhFQUp2Yog0MxQl-20" value="公司名称查询" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ub4OFuhFQUp2Yog0MxQl-12">
+          <mxGeometry x="0.062" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ub4OFuhFQUp2Yog0MxQl-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ub4OFuhFQUp2Yog0MxQl-1" target="Ub4OFuhFQUp2Yog0MxQl-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ub4OFuhFQUp2Yog0MxQl-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ub4OFuhFQUp2Yog0MxQl-1" target="Ub4OFuhFQUp2Yog0MxQl-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ub4OFuhFQUp2Yog0MxQl-1" value="买家预注册" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ub4OFuhFQUp2Yog0MxQl-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ub4OFuhFQUp2Yog0MxQl-5" target="Ub4OFuhFQUp2Yog0MxQl-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1170" y="590" />
+              <mxPoint x="827" y="590" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ub4OFuhFQUp2Yog0MxQl-5" value="数据入zoho" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="275" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ub4OFuhFQUp2Yog0MxQl-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ub4OFuhFQUp2Yog0MxQl-7" target="Ub4OFuhFQUp2Yog0MxQl-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ub4OFuhFQUp2Yog0MxQl-23" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ub4OFuhFQUp2Yog0MxQl-22">
+          <mxGeometry x="-0.2444" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ub4OFuhFQUp2Yog0MxQl-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ub4OFuhFQUp2Yog0MxQl-7" target="Ub4OFuhFQUp2Yog0MxQl-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ub4OFuhFQUp2Yog0MxQl-33" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ub4OFuhFQUp2Yog0MxQl-32">
+          <mxGeometry x="-0.0667" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ub4OFuhFQUp2Yog0MxQl-7" value="是否提单" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="374" y="410" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ub4OFuhFQUp2Yog0MxQl-9" value="提单范围：&lt;br&gt;1.通过渠道圈定提单范围&lt;br&gt;&lt;div&gt;进口提单&lt;/div&gt;&lt;div&gt;出口数据&lt;/div&gt;&lt;div&gt;航运数据&lt;/div&gt;&lt;div&gt;过境数据&lt;/div&gt;&lt;div&gt;2017年以前的提单&lt;/div&gt;&lt;div&gt;国贸通（提单）&lt;/div&gt;&lt;div&gt;2.通过规则，过滤掉测试买家，公司名称长度小于5的买家&lt;br&gt;&lt;/div&gt;&lt;div&gt;3.es的模糊搜索，获取排序靠前的5家公司&lt;/div&gt;&lt;div&gt;4.通过python的 dif包，进行匹配度&amp;nbsp; 70%的校验，能够匹配上的即为提单&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="24" y="180" width="430" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="Ub4OFuhFQUp2Yog0MxQl-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ub4OFuhFQUp2Yog0MxQl-11" target="Ub4OFuhFQUp2Yog0MxQl-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ub4OFuhFQUp2Yog0MxQl-11" value="es接口" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="354" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ub4OFuhFQUp2Yog0MxQl-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ub4OFuhFQUp2Yog0MxQl-15" target="Ub4OFuhFQUp2Yog0MxQl-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ub4OFuhFQUp2Yog0MxQl-15" value="1.买家填写自己的基础信息&lt;br&gt;2.买家填写感兴趣的产品标签" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="275" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Ub4OFuhFQUp2Yog0MxQl-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ub4OFuhFQUp2Yog0MxQl-18" target="Ub4OFuhFQUp2Yog0MxQl-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ub4OFuhFQUp2Yog0MxQl-18" value="1.系统生成该展会买家对应的展证号&lt;br&gt;2.系统生成买家id" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="275" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Ub4OFuhFQUp2Yog0MxQl-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ub4OFuhFQUp2Yog0MxQl-21" target="Ub4OFuhFQUp2Yog0MxQl-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ub4OFuhFQUp2Yog0MxQl-21" value="打标记录提单" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="354" y="555" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ub4OFuhFQUp2Yog0MxQl-24" value="CDP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="707" y="555" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ub4OFuhFQUp2Yog0MxQl-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ub4OFuhFQUp2Yog0MxQl-31" target="Ub4OFuhFQUp2Yog0MxQl-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ub4OFuhFQUp2Yog0MxQl-31" value="记录数据" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="480" width="80" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
